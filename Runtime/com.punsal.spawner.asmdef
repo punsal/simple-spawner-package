@@ -1,0 +1,4 @@
+{
+	"name": "com.punsal.spawner",
+	"references":[ "com.punsal.common" ]
+}

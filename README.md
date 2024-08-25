@@ -1,2 +1,2 @@
-# Unity-Package-Template
-A simple package template for Unity 2022.3
+# Simple-Spawner Package
+A simple spawner behaviours package for Unity 2022.3

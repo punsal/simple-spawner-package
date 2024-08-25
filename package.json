@@ -1,20 +1,20 @@
 {
-  "name": "com.punsal.[package-name]",
+  "name": "com.punsal.spawner",
   "version": "1.0.0",
-  "displayName": "[package-name]",
-  "description": "",
+  "displayName": "Simple-Spawner",
+  "description": "Simple spawner behaviours for Unity",
   "unity": "2022.3",
   "unityRelease": "34f1",
   "documentationUrl": "",
   "changelogUrl": "",
   "licensesUrl": "",
   "dependencies": {
-    "com.punsal.[dependent-package-name]": "1.0.0"
+    "com.punsal.common": "1.0.0"
   },
   "keywords": [
     "punsal",
     "simple",
-    "[extra-keyword]"
+    "spawner"
   ],
   "author": {
     "name": "Mustafa Pamir Ünsal",
